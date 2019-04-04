@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tiqii&#39;s Blog</title>
+  
+  <subtitle>个人小博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.tiqii.me/"/>
+  <updated>0201-03-03T02:21:57.000Z</updated>
+  <id>http://blog.tiqii.me/</id>
+  
+  <author>
+    <name>ZhangTao</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>搬瓦工主机购买教程</title>
+    <link href="http://blog.tiqii.me/2018/05/03/bwg/"/>
+    <id>http://blog.tiqii.me/2018/05/03/bwg/</id>
+    <published>2018-05-03T09:35:23.000Z</published>
+    <updated>0201-03-03T02:21:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>搬瓦工总共有20多款配置方案，不管你是个人博客还是商务应用，总有一款适合你** &gt;&gt; <a href="https://bandwagonhost.com/aff.php?aff=2724" target="_blank" rel="noopener">点击查看全部方案</a></p></blockquote><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">最新超值优惠码: BWH26FXH3HIQ</span><br></pre></td></tr></table></figure><a id="more"></a><hr><blockquote><h2 id="购买教程-脱水版"><a href="#购买教程-脱水版" class="headerlink" title="购买教程(脱水版)"></a>购买教程(脱水版)</h2></blockquote><ol><li>选择适合自己的vps配置方案</li><li>核对购买年限和机房并点下一步</li><li>返回本页面复制优惠码，验证优惠码</li><li>填写个人资料，邮箱、密码等信息，点击支付宝付款</li><li>完成支付宝付款，等待主机开通</li><li>登录后台，开始使用</li></ol><blockquote><h2 id="购买教程-详细版"><a href="#购买教程-详细版" class="headerlink" title="购买教程(详细版)"></a>购买教程(详细版)</h2></blockquote><h3 id="1-选择配置方案"><a href="#1-选择配置方案" class="headerlink" title="1. 选择配置方案"></a>1. 选择配置方案</h3><p>一般我们购买的是搬瓦工的几个常用的年付方案，您可以根据直达通道选择中意的VPS。在页面介绍中点击适合自己的套餐,或者点击查看全部方案</p><h3 id="2-选择月-年付，数据中心"><a href="#2-选择月-年付，数据中心" class="headerlink" title="2. 选择月/年付，数据中心"></a>2. 选择月/年付，数据中心</h3><p>选择月付，年付。机房一般选择美国洛杉矶，或者香港，然后点击Add to Cart(添加到购物车)，如下图示：<br><img src="/2018/05/03/bwg/bwg_2.png" title="购物车详情"></p><h3 id="3-填写优惠码"><a href="#3-填写优惠码" class="headerlink" title="3. 填写优惠码"></a>3. 填写优惠码</h3><p>进入订单确认页面。这里可以输入优惠码得到优惠。如下图所示：<img src="/2018/05/03/bwg/bwg_3.png" title="优惠码"><br>搬瓦工的优惠码都是终身的优惠码，可以看到续费也是同价。核对我们选择的方案和价格，没有问题后点击Checkout结账。<br><img src="/2018/05/03/bwg/bwg_32.png" title="价格示例"></p><h3 id="4-填写账户信息"><a href="#4-填写账户信息" class="headerlink" title="4. 填写账户信息"></a>4. 填写账户信息</h3><p>根据下图提示中文，按照实际情况填写信息，可以写拼音。付款方式选择alipay（支付宝），然后点击complete order<br><img src="/2018/05/03/bwg/bwg_4.png" title="付款"></p><h3 id="5-付款"><a href="#5-付款" class="headerlink" title="5. 付款"></a>5. 付款</h3><p>如下图，点击pay now，然后会跳转到支付宝，扫码付款即可。支付成功后，便会得到以下的界面，其中VPS的SSH端口和root密码也会发送到您填写的邮箱中。<br><img src="/2018/05/03/bwg/bwg_5.png" title="结账"></p><h3 id="6-vps控制面板，如下图："><a href="#6-vps控制面板，如下图：" class="headerlink" title="6. vps控制面板，如下图："></a>6. vps控制面板，如下图：<img src="/2018/05/03/bwg/bwg_6.png" title="控制面板"></h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;搬瓦工总共有20多款配置方案，不管你是个人博客还是商务应用，总有一款适合你** &amp;gt;&amp;gt; &lt;a href=&quot;https://bandwagonhost.com/aff.php?aff=2724&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;点击查看全部方案&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;最新超值优惠码: BWH26FXH3HIQ&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="VPS" scheme="http://blog.tiqii.me/categories/VPS/"/>
+    
+    
+      <category term="搬瓦工" scheme="http://blog.tiqii.me/tags/%E6%90%AC%E7%93%A6%E5%B7%A5/"/>
+    
+      <category term="VPS" scheme="http://blog.tiqii.me/tags/VPS/"/>
+    
+      <category term="主机" scheme="http://blog.tiqii.me/tags/%E4%B8%BB%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的博客首篇</title>
+    <link href="http://blog.tiqii.me/2018/03/01/first/"/>
+    <id>http://blog.tiqii.me/2018/03/01/first/</id>
+    <published>2018-03-01T04:12:53.000Z</published>
+    <updated>2018-03-02T04:15:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a><p>工作过程中发现有些东西还是得记录，之前一直使用有道云记录遇到的一些坑，最近发现网上很多问题的解决方法已经过时，所以萌生了自己开博客记录的想法。尽量将自己遇到的一些问题以及环境准确的记录下来，希望能给我们的同行提供一些解决问题的思路。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;工作过程中发现有些东西还是得记录，之前一直使用有道云记录遇到的一些坑，最近发现网上很多问题的解决方法已经过时，所以萌生了自己开博客记录的想法。尽量将自己遇到的一些问题以及环境准确的记录下来，希望能给我们的同行提供一些解决问题的思路。&lt;/p
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
